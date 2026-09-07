@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: #F7FFF7;
+}
+
+h1, h2, h3 {
+    color: #1A535C;
+    margin-bottom: 10px;
+}
+
+main {
+    width: 90vw;
+    align-items: center;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    border: #1A535C 5px solid;
+    border-radius: 20px;
+}
+
+section {
+    width: 80%;
+    align-items: center;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#profile {
+    padding: 20px;
+    border:  #4ecdc5ab 3px solid;
+    border-radius: 20px;
+}
+
+p {
+    /*to be added*/
+}
+
+.skill_box {
+    width: 50%;
+    align-items: center;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    border: #FF6B6B 2px solid;
+    border-radius: 10px;
+    padding: 2rem;
+    background-color: #FFE66D;
+}
+
+footer {
+    margin-top: 20pt;
+    border-top: #1A535C 2px solid;
+    background-color: #FFE66D;
+    padding: 20pt;
+}
